@@ -1,3 +1,4 @@
+# https://jiayiqu115.github.io/workbook3/
 Project Overview
 This project creates a dynamic visual effect by sampling random pixels from an image and displaying them on a canvas. The result is a mesmerizing pixel storm where each frame brings new colors and patterns to life.
 
